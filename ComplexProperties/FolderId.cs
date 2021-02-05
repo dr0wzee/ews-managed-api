@@ -25,8 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-
     /// <summary>
     /// Represents the Id of a folder.
     /// </summary>

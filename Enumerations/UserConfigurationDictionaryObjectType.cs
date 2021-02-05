@@ -25,10 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
     /// <summary>
     /// Identifies the user configuration dictionary key and value types.
     /// </summary>

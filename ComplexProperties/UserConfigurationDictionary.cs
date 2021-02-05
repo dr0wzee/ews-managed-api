@@ -29,10 +29,6 @@ namespace Microsoft.Exchange.WebServices.Data
     using System.Collections;
     using System.Collections.Generic;
     using System.ComponentModel;
-    using System.IO;
-    using System.Reflection;
-    using System.Text;
-    using System.Xml;
 
     /// <summary>
     /// Represents a user configuration's Dictionary property.

@@ -25,10 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
     /// <summary>
     /// Defines the containment mode for Contains search filters.
     /// </summary>

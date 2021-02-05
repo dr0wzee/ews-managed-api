@@ -25,10 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
     /// <summary>
     /// Represents a change on a folder as returned by a synchronization operation.
     /// </summary>

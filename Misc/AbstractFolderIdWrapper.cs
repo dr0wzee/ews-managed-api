@@ -25,10 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
     /// <summary>
     /// Represents the abstraction of a folder Id.
     /// </summary>

@@ -25,9 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Text;
-
     /// <summary>
     /// Represents a response to a GetUserConfiguration request.
     /// </summary>

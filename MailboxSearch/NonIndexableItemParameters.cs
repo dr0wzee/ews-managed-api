@@ -25,8 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-
     /// <summary>
     /// Represents non indexable item parameters base class
     /// </summary>

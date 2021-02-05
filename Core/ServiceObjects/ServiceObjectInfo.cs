@@ -27,8 +27,6 @@ namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
     using System.Collections.Generic;
-    using System.Diagnostics;
-    using System.Reflection;
 
     internal delegate object CreateServiceObjectWithServiceParam(ExchangeService srv);
 

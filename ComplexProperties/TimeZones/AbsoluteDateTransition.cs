@@ -26,9 +26,7 @@
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
-    using System.Collections.Generic;
     using System.Globalization;
-    using System.Text;
 
     /// <summary>
     /// Represents a time zone period transition that occurs on a fixed (absolute) date.

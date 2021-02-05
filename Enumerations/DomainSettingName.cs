@@ -23,11 +23,6 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-using System;
-using System.Collections.Generic;
-using System.Runtime.Serialization;
-using System.Text;
-
 namespace Microsoft.Exchange.WebServices.Autodiscover
 {
     /// <summary>

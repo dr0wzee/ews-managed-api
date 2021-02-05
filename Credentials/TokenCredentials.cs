@@ -25,10 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Net;
-    using System.Xml;
-
     /// <summary>
     /// TokenCredentials provides credentials if you already have a token.
     /// </summary>

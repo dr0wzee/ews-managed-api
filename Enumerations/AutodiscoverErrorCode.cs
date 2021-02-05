@@ -25,10 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Autodiscover
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
     /// <summary>
     /// Defines the error codes that can be returned by the Autodiscover service.
     /// </summary>

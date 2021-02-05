@@ -27,7 +27,6 @@ namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
     using System.Net;
-    using Microsoft.Exchange.WebServices.Data;
 
     /// <summary>
     /// Represents a request of a get user photo operation

@@ -27,11 +27,9 @@ namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
     using System.IO;
-    using System.IO.Compression;
     using System.Net;
-    using System.Text;
     using System.Threading;
-    using System.Web;
+    //using System.Web;
     using System.Xml;
 
     /// <summary>
@@ -242,12 +240,12 @@ namespace Microsoft.Exchange.WebServices.Data
                     this.Disconnect(HangingRequestDisconnectReason.Exception, ex);
                     return;
                 }
-                catch (HttpException ex)
-                {
-                    // Stream is closed, so disconnect.
-                    this.Disconnect(HangingRequestDisconnectReason.Exception, ex);
-                    return;
-                }
+                //catch (HttpException ex)
+                //{
+                //    // Stream is closed, so disconnect.
+                //    this.Disconnect(HangingRequestDisconnectReason.Exception, ex);
+                //    return;
+                //}
                 catch (WebException ex)
                 {
                     // Stream is closed, so disconnect.

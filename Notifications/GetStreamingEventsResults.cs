@@ -26,9 +26,7 @@
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
-    using System.Collections.Generic;
     using System.Collections.ObjectModel;
-    using System.Linq;
 
     /// <summary>
     /// Represents a collection of notification events.

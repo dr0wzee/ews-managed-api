@@ -26,8 +26,6 @@
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     /// <summary>
     /// Represents a response to a meeting request. Properties available on meeting messages are defined in the MeetingMessageSchema class.

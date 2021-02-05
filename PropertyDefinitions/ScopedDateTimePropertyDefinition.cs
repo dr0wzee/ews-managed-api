@@ -26,9 +26,6 @@
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
-    using System.Collections.Generic;
-    using System.Globalization;
-    using System.Text;
 
     /// <summary>
     /// Defines a callback method used to get a reference to a property definition.

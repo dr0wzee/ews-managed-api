@@ -27,7 +27,6 @@ namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
     using System.Collections.Generic;
-    using System.Text;
 
     /// <summary>
     /// Represents a response object created to remove a calendar item from a meeting cancellation.

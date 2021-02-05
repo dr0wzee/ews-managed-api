@@ -25,8 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data.Groups
 {
-    using System;
-
     /// <summary>
     /// The UnifiedGroupsSortType enum
     /// </summary>

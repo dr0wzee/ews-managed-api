@@ -25,8 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System.Collections.ObjectModel;
-
     /// <summary>
     /// Represents the response to a GetConversationItems operation.
     /// </summary>

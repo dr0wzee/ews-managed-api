@@ -26,7 +26,6 @@
 namespace Microsoft.Exchange.WebServices.Autodiscover
 {
     using System;
-    using System.Collections;
     using System.Collections.Generic;
     using System.DirectoryServices;
     using System.DirectoryServices.ActiveDirectory;

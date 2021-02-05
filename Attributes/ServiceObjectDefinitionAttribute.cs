@@ -26,8 +26,6 @@
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     /// <summary>
     /// ServiceObjectDefinition attribute decorates classes that map to EWS service objects.

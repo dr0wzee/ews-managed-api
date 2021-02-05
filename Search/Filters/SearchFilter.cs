@@ -25,11 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Collections.Generic;
-    using System.ComponentModel;
-    using System.Text;
-
     /// <summary>
     /// Represents the base search filter class. Use descendant search filter classes such as SearchFilter.IsEqualTo,
     /// SearchFilter.ContainsSubstring and SearchFilter.SearchFilterCollection to define search filters.

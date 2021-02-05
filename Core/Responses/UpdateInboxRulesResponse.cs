@@ -25,8 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System.Xml;
-
     /// <summary>
     /// Represents the response to a UpdateInboxRulesResponse operation.
     /// </summary>

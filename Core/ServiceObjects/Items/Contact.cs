@@ -26,9 +26,7 @@
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
-    using System.Collections.Generic;
     using System.IO;
-    using System.Text;
 
     /// <summary>
     /// Represents a contact. Properties available on contacts are defined in the ContactSchema class.

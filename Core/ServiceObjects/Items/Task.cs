@@ -26,9 +26,6 @@
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
-    using System.Collections.Generic;
-    using System.Globalization;
-    using System.Text;
 
     /// <summary>
     /// Represents a Task item. Properties available on tasks are defined in the TaskSchema class.

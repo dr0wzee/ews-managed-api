@@ -25,8 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System.Collections.Generic;
-
     /// <summary>
     /// Represents a generic folder.
     /// </summary>

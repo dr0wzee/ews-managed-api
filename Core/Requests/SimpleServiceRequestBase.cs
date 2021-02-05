@@ -27,9 +27,7 @@ namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
     using System.IO;
-    using System.IO.Compression;
     using System.Net;
-    using System.Xml;
 
     /// <summary>
     /// Represents an abstract, simple request-response service request.

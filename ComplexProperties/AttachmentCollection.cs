@@ -30,8 +30,6 @@ namespace Microsoft.Exchange.WebServices.Data
     using System.ComponentModel;
     using System.IO;
     using System.Linq;
-    using System.Reflection;
-    using System.Text;
 
     /// <summary>
     /// Represents an item's attachment collection.

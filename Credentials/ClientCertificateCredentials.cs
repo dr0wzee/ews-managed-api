@@ -25,7 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System.Net;
     using System.Security.Cryptography.X509Certificates;
 
     /// <summary>

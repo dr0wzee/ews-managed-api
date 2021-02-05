@@ -25,11 +25,6 @@
 
 namespace Microsoft.Exchange.WebServices.Data
 {
-    using System;
-    using System.Collections.Generic;
-    using System.ComponentModel;
-    using System.Text;
-
     /// <summary>
     /// Represents the base class for e-mail related responses (Reply, Reply all and Forward).
     /// </summary>

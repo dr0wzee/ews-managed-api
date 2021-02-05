@@ -24,10 +24,8 @@
  */
 
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using System.Xml;
 
 namespace Microsoft.Exchange.WebServices.Data
 {

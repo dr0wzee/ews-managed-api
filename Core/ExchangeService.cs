@@ -23,8 +23,6 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-using System.Security.Cryptography;
-
 namespace Microsoft.Exchange.WebServices.Data
 {
     using System;

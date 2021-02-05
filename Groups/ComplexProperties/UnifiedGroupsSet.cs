@@ -27,7 +27,6 @@ namespace Microsoft.Exchange.WebServices.Data.Groups
 {
     using System;
     using System.Collections.Generic;
-    using System.Text;
 
     /// <summary>
     /// Represents a UnifiedGroupsSet

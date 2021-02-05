@@ -25,10 +25,7 @@
 
 namespace Microsoft.Exchange.WebServices.Data.Groups
 {
-    using System;
-    using System.Collections.Generic;
     using System.Collections.ObjectModel;
-    using System.Text;
 
     /// <summary>
     /// Represents a response to a GetUserUnifiedGroupsResponse operation

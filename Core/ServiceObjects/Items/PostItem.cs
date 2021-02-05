@@ -27,7 +27,6 @@ namespace Microsoft.Exchange.WebServices.Data
 {
     using System;
     using System.Collections.Generic;
-    using System.Text;
 
     /// <summary>
     /// Represents a post item. Properties available on post items are defined in the PostItemSchema class.

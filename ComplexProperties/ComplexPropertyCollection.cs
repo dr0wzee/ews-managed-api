@@ -28,7 +28,6 @@ namespace Microsoft.Exchange.WebServices.Data
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;
-    using System.Text;
 
     /// <summary>
     /// Represents a collection of properties that can be sent to and retrieved from EWS.

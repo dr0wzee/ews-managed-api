@@ -27,9 +27,6 @@ namespace Microsoft.Exchange.WebServices.Autodiscover
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel;
-    using System.Text;
-    using System.Xml;
     using Microsoft.Exchange.WebServices.Data;
 
     /// <summary>
