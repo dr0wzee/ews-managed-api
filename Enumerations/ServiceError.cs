@@ -413,6 +413,11 @@ namespace Microsoft.Exchange.WebServices.Data
         ErrorConnectionFailed,
 
         /// <summary>
+        /// ErrorConnectionFailedTransientError
+        /// </summary>
+        ErrorConnectionFailedTransientError,
+
+        /// <summary>
         /// The Contains filter can only be used for string properties.
         /// </summary>
         ErrorContainsFilterWrongType,
